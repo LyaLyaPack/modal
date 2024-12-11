@@ -1,0 +1,34 @@
+{
+    "modal": {
+        "title": "Title",
+        "content": "text text text text text text",
+        "closeButtonText": "Close",
+        "backgroundColor": "#fefefe",
+        "textColor": "#000000",
+        "overlayColor": "rgba(0, 0, 0, 0.5)",
+        "width": 500,
+        "height": 300,
+        "titleFontSize": 24,
+        "contentFontSize": 16,
+        "borderRadius": 10,
+        "borderEnabled": false,
+        "border": {
+            "width": 2,
+            "color": "#888888",
+            "style": "solid"
+        },
+        "closeButton": {
+            "backgroundColor": "#ff0000",
+            "textColor": "#ffffff",
+            "fontSize": 16,
+            "padding": 10,
+            "borderRadius": 5,
+            "borderEnabled": false,
+            "border": {
+                "width": 2,
+                "color": "#888888",
+                "style": "solid"
+            }
+        }
+    }
+}
